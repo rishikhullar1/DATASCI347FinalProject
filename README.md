@@ -67,6 +67,7 @@ This project demonstrates both the potential and limitations of machine learning
 ## Repository Contents
 
 - `README.md` — project overview
-- Jupyter notebooks containing model development and analysis
-- Visualizations and evaluation results
-- Final project report
+- Documentation containing final report
+- Powerpoint presentation with visualizations
+- Full project code
+- Raw dataset
